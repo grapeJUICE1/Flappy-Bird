@@ -59,7 +59,8 @@ cvs.addEventListener("click", function(evt) {
 });
 
 document.addEventListener("keydown", function(evt) {
-    if (evt.key === " ") {
+    console.log(evt)
+    if (evt.key === " " || evt.key === "w" || evt.key === "Enter" ) {
         switch (state.current) {
             case state.getReady:
                 state.current = state.playing;
