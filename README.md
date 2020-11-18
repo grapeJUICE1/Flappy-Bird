@@ -1,6 +1,6 @@
 # Flappy Bird
 
-[Live demo](https://afornow.github.io/Flappy-Bird/)
+[Live demo](https://grapejuice1.github.io/Flappy-Bird/)
 
 
 
